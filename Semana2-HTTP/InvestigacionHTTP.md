@@ -111,3 +111,7 @@
 * 508 Loop Detected (WebDAV): El servidor detectó un ciclo infinito mientras procesaba la solicitud.
 * 510 Not Extended: Extensiones adicionales para la solicitud son requeridas para que el servidor las cumpla.
 * 511 Network Authentication Required: El código de estado 511 indica que el cliente necesita autenticar para ganar acceso a la red. 
+
+
+###### Tomado de :
+[Develover Mozilla](https://developer.mozilla.org/es/)
